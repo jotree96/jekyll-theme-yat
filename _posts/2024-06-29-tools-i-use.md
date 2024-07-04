@@ -2,7 +2,7 @@
 title: Die besten Tools für einen Workflow im Computer-Alltag eines Studenten im MINT-Bereich
 author: Jonathan Baum
 date: 2024-06-29
-categories: Tools
+categories: Meinung
 layout: post
 tags: [Tools, FLOSS]
 
