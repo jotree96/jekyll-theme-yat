@@ -1,9 +1,9 @@
 ---
+layout: post
 title: Archivierung von URLs in Wissenschaftlichen Arbeiten
 author: Jonathan Baum
 date: 2023-03-03
 categories: Beitrag
-layout: post
 tags: [Wissenschaft, Replikationskrise]
 ---
 
